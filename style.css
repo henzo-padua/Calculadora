@@ -1,0 +1,47 @@
+body{
+    background-color: rgba(106, 112, 114, 0.911);
+    font: pt25 Arial normal;
+}
+
+h1{
+    text-align: center;
+    color: rgba(255, 166, 0, 0.884);
+    margin-bottom: 30px;
+    margin-top: 90px;
+}
+
+
+p{ 
+    margin: auto;
+    margin-bottom: 20px;
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.975);
+    width: 170px;
+    height: 15px;
+    border-radius: 8px;
+    text-align: right;
+    font-size:16px;
+}
+
+section{
+    padding: 25px;
+    margin: auto;
+    width: 300px;
+    height: 450px;
+    background-color: rgba(0, 0, 0, 0.897);
+    text-align: center;
+    border-radius: 100px;
+}
+
+button{
+    font-size:16px;
+    font-weight: 700;
+    color: white;
+    background-color: orange;
+    border: none;
+    border-radius: 50px;
+    padding: 22px;
+    margin: 1px;
+    margin-bottom: 5px;
+    cursor: pointer;
+}
